@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<club xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nom="Info_Tech" xsi:noNamespaceSchemaLocation="club.xsd">
+
+    <!--  CATEGORIES  -->
+
+    <categories>
+
+        <categorie id="C1" libelle="Intelligence Artificielle"/>
+
+        <categorie id="C2" libelle="Développement Web"/>
+
+        <categorie id="C3" libelle="Sécurité Informatique"/>
+
+    </categories>
+
+    <!--  MEMBRES  -->
+
+    <membres>
+
+        <membre id="M001" categorieRef="C1">
+            <nom>Hamidi</nom>
+            <prenom>Riad</prenom>
+            <email>riad@club.dz</email>
+        </membre>
+
+        <membre id="M002" categorieRef="C2">
+            <nom>Benali</nom>
+            <prenom>Ahmed</prenom>
+            <email>ahmed@club.dz</email>
+        </membre>
+
+        <membre id="M003" categorieRef="C3">
+            <nom>Mansouri</nom>
+            <prenom>Sami</prenom>
+            <email>samimans452@gmail.com</email>
+        </membre>
+
+        <membre id="M004" categorieRef="C2">
+            <nom>Belkacem</nom>
+            <prenom>Amel</prenom>
+            <email>belamel74@yahoo.com</email>
+        </membre>
+
+        <membre id="M005" categorieRef="C1">
+            <nom>Haddad</nom>
+            <prenom>Yanis</prenom>
+            <email>yanishaddad@gmail.com</email>
+        </membre>
+
+        <membre id="M006" categorieRef="C1">
+            <nom>Ziri</nom>
+            <prenom>Lina</prenom>
+            <email>thatgirllina458@gmail.com</email>
+        </membre>
+
+        <membre id="M007" categorieRef="C1">
+            <nom>Bouaziz</nom>
+            <prenom>Karim</prenom>
+            <email>karimbou2026@gmail.com</email>
+        </membre>
+
+        <membre id="M008" categorieRef="C3">
+            <nom>Saidi</nom>
+            <prenom>Meriem</prenom>
+            <email>meriemsai93@gmail.com</email>
+        </membre>
+
+        <membre id="M009" categorieRef="C2">
+            <nom>Hamidi</nom>
+            <prenom>Omar</prenom>
+            <email>hamidiomar23@yahoo.com</email>
+        </membre>
+
+        <membre id="M010" categorieRef="C2">
+            <nom>Taleb</nom>
+            <prenom>Sara</prenom>
+            <email>saraski21@gmail.com</email>
+        </membre>
+
+        <membre id="M011" categorieRef="C3">
+            <nom>Khaldi</nom>
+            <prenom>Riad</prenom>
+            <email>riadkhjij237@gmail.com</email>
+        </membre>
+
+        <membre id="M012" categorieRef="C3">
+            <nom>Brahimi</nom>
+            <prenom>Selma</prenom>
+            <email>selmabr457an@gmail.com</email>
+        </membre>
+
+    </membres>
+
+    <!--  CONCOURS  -->
+
+    <concours>
+
+        <concours id="CO1" date="2026-03-15" categorieRef="C1" coefficient="1.5">
+
+            <titre>Concours IA Printemps 2026</titre>
+
+            <participants>
+
+                <participant membreRef="M001">
+                    <complexite>80</complexite>
+                    <tempsExecution>100</tempsExecution>
+                </participant>
+
+                <participant membreRef="M005">
+                    <complexite>75</complexite>
+                    <tempsExecution>95</tempsExecution>
+                </participant>
+
+                <participant membreRef="M007">
+                    <complexite>90</complexite>
+                    <tempsExecution>110</tempsExecution>
+                </participant>
+
+            </participants>
+
+        </concours>
+
+        <concours id="CO2" date="2026-04-10" categorieRef="C2" coefficient="1.2">
+
+            <titre>Hackathon WebDev 2026</titre>
+
+            <participants>
+
+                <participant membreRef="M002">
+                    <complexite>66</complexite>
+                    <tempsExecution>120</tempsExecution>
+                </participant>
+
+                <participant membreRef="M004">
+                    <complexite>70</complexite>
+                    <tempsExecution>90</tempsExecution>
+                </participant>
+
+                <participant membreRef="M009">
+                    <complexite>85</complexite>
+                    <tempsExecution>105</tempsExecution>
+                </participant>
+
+            <participant membreRef="M002"><complexite>70</complexite><tempsExecution>204</tempsExecution></participant></participants>
+
+        </concours>
+
+        <concours id="CO3" date="2026-05-20" categorieRef="C3" coefficient="1.8">
+
+            <titre>CTF Security Challenge</titre>
+
+            <participants>
+
+                <participant membreRef="M003">
+                    <complexite>88</complexite>
+                    <tempsExecution>80</tempsExecution>
+                </participant>
+
+                <participant membreRef="M008">
+                    <complexite>92</complexite>
+                    <tempsExecution>100</tempsExecution>
+                </participant>
+
+                <participant membreRef="M011">
+                    <complexite>78</complexite>
+                    <tempsExecution>95</tempsExecution>
+                </participant>
+
+            </participants>
+
+        </concours>
+
+    </concours>
+
+</club>
