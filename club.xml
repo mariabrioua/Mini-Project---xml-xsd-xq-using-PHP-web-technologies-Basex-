@@ -18,75 +18,75 @@
     <membres>
 
         <membre id="M001" categorieRef="C1">
-            <nom>Hamidi</nom>
-            <prenom>Riad</prenom>
-            <email>riad@club.dz</email>
+            <nom>Moussaoui</nom>
+            <prenom>Hidaya</prenom>
+            <email>hidaya@club.dz</email>
         </membre>
 
         <membre id="M002" categorieRef="C2">
-            <nom>Benali</nom>
-            <prenom>Ahmed</prenom>
-            <email>ahmed@club.dz</email>
+            <nom>Brioua</nom>
+            <prenom>Maria</prenom>
+            <email>maria@club.dz</email>
         </membre>
 
         <membre id="M003" categorieRef="C3">
-            <nom>Mansouri</nom>
-            <prenom>Sami</prenom>
-            <email>samimans452@gmail.com</email>
+            <nom>Maalem</nom>
+            <prenom>Wissal</prenom>
+            <email>wissal21@gmail.com</email>
         </membre>
 
         <membre id="M004" categorieRef="C2">
-            <nom>Belkacem</nom>
-            <prenom>Amel</prenom>
-            <email>belamel74@yahoo.com</email>
+            <nom>Boucheriha</nom>
+            <prenom>Farah</prenom>
+            <email>farah@yahoo.com</email>
         </membre>
 
         <membre id="M005" categorieRef="C1">
-            <nom>Haddad</nom>
-            <prenom>Yanis</prenom>
-            <email>yanishaddad@gmail.com</email>
+            <nom>Maoui</nom>
+            <prenom>Sarra</prenom>
+            <email>sarra22@gmail.com</email>
         </membre>
 
         <membre id="M006" categorieRef="C1">
-            <nom>Ziri</nom>
-            <prenom>Lina</prenom>
-            <email>thatgirllina458@gmail.com</email>
+            <nom>Bouguern</nom>
+            <prenom>Malak</prenom>
+            <email>malak458@gmail.com</email>
         </membre>
 
         <membre id="M007" categorieRef="C1">
-            <nom>Bouaziz</nom>
-            <prenom>Karim</prenom>
-            <email>karimbou2026@gmail.com</email>
+            <nom>Houssous</nom>
+            <prenom>Nehla</prenom>
+            <email>nehla2026@gmail.com</email>
         </membre>
 
         <membre id="M008" categorieRef="C3">
-            <nom>Saidi</nom>
-            <prenom>Meriem</prenom>
-            <email>meriemsai93@gmail.com</email>
+            <nom>Laterche</nom>
+            <prenom>Malak</prenom>
+            <email>malak93@gmail.com</email>
         </membre>
 
         <membre id="M009" categorieRef="C2">
-            <nom>Hamidi</nom>
-            <prenom>Omar</prenom>
-            <email>hamidiomar23@yahoo.com</email>
+            <nom>Boulif</nom>
+            <prenom>Rihab</prenom>
+            <email>rihab3@yahoo.com</email>
         </membre>
 
         <membre id="M010" categorieRef="C2">
-            <nom>Taleb</nom>
+            <nom>Nouar</nom>
             <prenom>Sara</prenom>
             <email>saraski21@gmail.com</email>
         </membre>
 
         <membre id="M011" categorieRef="C3">
-            <nom>Khaldi</nom>
-            <prenom>Riad</prenom>
-            <email>riadkhjij237@gmail.com</email>
+            <nom>Koualed</nom>
+            <prenom>Rayane</prenom>
+            <email>rayane237@gmail.com</email>
         </membre>
 
         <membre id="M012" categorieRef="C3">
-            <nom>Brahimi</nom>
-            <prenom>Selma</prenom>
-            <email>selmabr457an@gmail.com</email>
+            <nom>Youcefi</nom>
+            <prenom>Mouna</prenom>
+            <email>mounayf7@gmail.com</email>
         </membre>
 
     </membres>
@@ -141,7 +141,7 @@
                     <tempsExecution>105</tempsExecution>
                 </participant>
 
-            <participant membreRef="M002"><complexite>70</complexite><tempsExecution>204</tempsExecution></participant></participants>
+            <participant membreRef="M002"><complexite>100</complexite><tempsExecution>150</tempsExecution></participant></participants>
 
         </concours>
 
